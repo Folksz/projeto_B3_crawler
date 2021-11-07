@@ -1,0 +1,27 @@
+Package: b3crawler
+Title: Crawler B3
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Pedro",
+           family = "Cavalcante",
+           role = c("aut","cre"),
+           email = "pedrohen.fc@gmail.com")
+Description: Crawler dados da B3.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    stringr,
+    dplyr,
+    rvest,
+    xml2,
+    BatchGetSymbols,
+    xlsx,
+    zoo,
+    stringi,
+    sidrar,
+    ipeadatar,
+    utils,
+    lubridate
