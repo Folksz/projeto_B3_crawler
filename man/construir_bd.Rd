@@ -7,7 +7,7 @@
 \usage{
 atualizar_ponta(diretorio = "output/", gerar_cotacao = TRUE)
 
-construir_bd(anos, diretorio = "output/", gerar_cotacao = FALSE)
+construir_bd(anos = seq(2011, 2021), diretorio = "", gerar_cotacao = TRUE)
 }
 \arguments{
 \item{diretorio}{Local em que as tabelas serao geradas em csv}

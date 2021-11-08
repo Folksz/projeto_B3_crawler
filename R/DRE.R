@@ -6,6 +6,7 @@
 #' @return demonstrativo de resultados
 #' @author Pedro Cavalcante
 
+
 construir_DRE<-function(bulk){
   #Captura os 3 primeiros trimestre a partir do ITR
   dre=bulk$itr$itr_cia_aberta_DRE_con

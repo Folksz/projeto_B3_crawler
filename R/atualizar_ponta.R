@@ -34,10 +34,7 @@ atualizar_ponta<-function(diretorio="output/",gerar_cotacao=TRUE){
     tbl_empresas_ponta=depara_ponta$tbl_empresas
     tbl_ticker_ponta=depara_ponta$tbl_ticker
     tbl_divulgacoes_ponta=rbind(bulk$itr$itr_cia_aberta_,bulk$dfp$dfp_cia_aberta_)
-	tbl_divulgacoes_ponta=tbl_divulgacoes_ponta%>%filter(VERSAO==1)%>%summarise(str_cia_CVM=DENOM_CIA,dte_refer=DT_REFER,dt_publi=DT_RECEB)
- 
-	
-	
+	  tbl_divulgacoes_ponta=tbl_divulgacoes_ponta%>%filter(VERSAO==1)%>%summarise(str_cia_CVM=DENOM_CIA,dte_refer=DT_REFER,dt_publi=DT_RECEB)
     tbl_dre_ponta=merge(tbl_dre_ponta,tbl_empresas_ponta%>%summarise(str_cia_CVM,regex))
     tbl_bp_ativo_ponta=merge(tbl_bp_ativo_ponta,tbl_empresas_ponta%>%summarise(str_cia_CVM,regex))
     tbl_bp_passivo_ponta=merge(tbl_bp_passivo_ponta,tbl_empresas_ponta%>%summarise(str_cia_CVM,regex))

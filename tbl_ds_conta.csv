@@ -1,0 +1,1005 @@
+"cd_conta","ds_conta","str_tabela","nchar"
+"1","Ativo Total","tbl_bp_ativo",1
+"1.01","Ativo Circulante","tbl_bp_ativo",4
+"1.01.01","Caixa e Equivalentes de Caixa","tbl_bp_ativo",7
+"1.01.01.01","Caixa e Bancos","tbl_bp_ativo",10
+"1.01.01.02","Aplicações Financeiras","tbl_bp_ativo",10
+"1.01.01.03","Aplicações Financeiras","tbl_bp_ativo",10
+"1.01.01.04","CDB","tbl_bp_ativo",10
+"1.01.01.05","Outras Aplicações em Renda FIxa","tbl_bp_ativo",10
+"1.01.02","Aplicações Financeiras","tbl_bp_ativo",7
+"1.01.02.01","Aplicações Financeiras Avaliadas a Valor Justo","tbl_bp_ativo",10
+"1.01.02.01.01","Títulos para Negociação","tbl_bp_ativo",13
+"1.01.02.01.02","Títulos Disponíveis para Venda","tbl_bp_ativo",13
+"1.01.02.01.03","Títulos e Valores Mobiliários","tbl_bp_ativo",13
+"1.01.02.01.04","Instrumentos Financeiros Derivativos","tbl_bp_ativo",13
+"1.01.02.01.05","Operações de créditos e adiantamento a instituições financeiras","tbl_bp_ativo",13
+"1.01.02.01.06","Operações de Swap","tbl_bp_ativo",13
+"1.01.02.01.07","Ativos Tributados Diferidos","tbl_bp_ativo",13
+"1.01.02.02","Aplicações Financeiras Avaliadas ao Custo Amortizado","tbl_bp_ativo",10
+"1.01.02.02.01","Títulos Mantidos até o Vencimento","tbl_bp_ativo",13
+"1.01.02.02.20","Instrumentos Financeiros Derivativos","tbl_bp_ativo",13
+"1.01.02.03","Aplicações Financeiras Avaliadas ao Custo Amortizado","tbl_bp_ativo",10
+"1.01.02.03.01","Títulos Mantidos até o Vencimento","tbl_bp_ativo",13
+"1.01.02.03.02","Depósitos Retidos","tbl_bp_ativo",13
+"1.01.03","Contas a Receber","tbl_bp_ativo",7
+"1.01.03.01","Clientes","tbl_bp_ativo",10
+"1.01.03.01.01","Clientes","tbl_bp_ativo",13
+"1.01.03.01.02","Clientes por Prestação de Serviços","tbl_bp_ativo",13
+"1.01.03.01.03","Provisão p/ Perdas c/ Clientes","tbl_bp_ativo",13
+"1.01.03.01.04","Recebíveis de prestação de serviços","tbl_bp_ativo",13
+"1.01.03.01.05","Operadoras de Planos de Assitência à Saúde","tbl_bp_ativo",13
+"1.01.03.01.06","Créditos das Operações com Previdência Complementar","tbl_bp_ativo",13
+"1.01.03.01.07","Ativos de Resseguros - Provisões Técnicas","tbl_bp_ativo",13
+"1.01.03.01.08","(-) Provisão p/ Crédito de Liquidação Duvidosa","tbl_bp_ativo",13
+"1.01.03.01.08","(-) Provisão p/Crédito de Liquidação Duvidosa","tbl_bp_ativo",13
+"1.01.03.01.09","(-) Provisão p/Crédito de Liquidação Duvidosa","tbl_bp_ativo",13
+"1.01.03.02","Outras Contas a Receber","tbl_bp_ativo",10
+"1.01.03.02.01","Adiantamentos a Fornecedores","tbl_bp_ativo",13
+"1.01.03.02.02","Demais contas a receber","tbl_bp_ativo",13
+"1.01.03.02.03","Outros Valores a Receber","tbl_bp_ativo",13
+"1.01.03.02.04","Outras Contas a Receber","tbl_bp_ativo",13
+"1.01.03.02.05","Juros pagos antecipadamente - securitização no exterior","tbl_bp_ativo",13
+"1.01.03.02.06","Despesas Pagas Antecipadamente","tbl_bp_ativo",13
+"1.01.03.02.07","Dividendos","tbl_bp_ativo",13
+"1.01.03.02.08","Outros","tbl_bp_ativo",13
+"1.01.03.02.08","Recuperação de custo de energia e encargos","tbl_bp_ativo",13
+"1.01.03.02.09","Outros créditos a receber","tbl_bp_ativo",13
+"1.01.03.02.10","Créditos com Operações Financeiras","tbl_bp_ativo",13
+"1.01.03.02.11","Ativos contratuais","tbl_bp_ativo",13
+"1.01.03.02.15","Alienação de Investimentos","tbl_bp_ativo",13
+"1.01.03.02.16","Alienação de Estoque","tbl_bp_ativo",13
+"1.01.03.02.20","Outras Contas a Receber","tbl_bp_ativo",13
+"1.01.03.03","Capitalização","tbl_bp_ativo",10
+"1.01.03.04","Outras Operações","tbl_bp_ativo",10
+"1.01.04","Estoques","tbl_bp_ativo",7
+"1.01.04.01","Estoques","tbl_bp_ativo",10
+"1.01.04.02","Produtos em Elaboração","tbl_bp_ativo",10
+"1.01.04.03","Estoques de Terrenos","tbl_bp_ativo",10
+"1.01.04.04","Materiais Consumo Produção","tbl_bp_ativo",10
+"1.01.04.05","Consignação","tbl_bp_ativo",10
+"1.01.04.06","Revenda","tbl_bp_ativo",10
+"1.01.04.07","Outros Estoques","tbl_bp_ativo",10
+"1.01.04.08","Impairment de Produtos Acabados","tbl_bp_ativo",10
+"1.01.04.09","Adiantamentos a Fornecedores","tbl_bp_ativo",10
+"1.01.05","Ativos Biológicos","tbl_bp_ativo",7
+"1.01.05.01","Ativo Biológico Cana de Açucar","tbl_bp_ativo",10
+"1.01.05.01","Ativo imobilizado disponibilizado para venda","tbl_bp_ativo",10
+"1.01.06","Tributos a Recuperar","tbl_bp_ativo",7
+"1.01.06.01","Tributos Correntes a Recuperar","tbl_bp_ativo",10
+"1.01.06.01.01","Impostos a Recuperar","tbl_bp_ativo",13
+"1.01.06.01.02","Demais tributos a recuperar","tbl_bp_ativo",13
+"1.01.06.01.03","Imposto de renda e contribuição social diferidos","tbl_bp_ativo",13
+"1.01.06.01.04","ICMS a Recuperar","tbl_bp_ativo",13
+"1.01.06.01.05","Tributos Federais a Recuperar","tbl_bp_ativo",13
+"1.01.06.01.06","Outros impostos","tbl_bp_ativo",13
+"1.01.07","Despesas Antecipadas","tbl_bp_ativo",7
+"1.01.07.01","Despesas Antecipadas","tbl_bp_ativo",10
+"1.01.07.02","Despesas antecipadas","tbl_bp_ativo",10
+"1.01.07.03","Outras Despesas a Propriar","tbl_bp_ativo",10
+"1.01.07.20","Outras","tbl_bp_ativo",10
+"1.01.08","Outros Ativos Circulantes","tbl_bp_ativo",7
+"1.01.08.01","Ativos Não-Correntes a Venda","tbl_bp_ativo",10
+"1.01.08.01.01","Adiantamento a Fornecedores","tbl_bp_ativo",13
+"1.01.08.01.02","Ativos Mantidos para Venda","tbl_bp_ativo",13
+"1.01.08.01.03","Dividendos a receber","tbl_bp_ativo",13
+"1.01.08.01.04","Instrumentos financeiros derivativos","tbl_bp_ativo",13
+"1.01.08.01.05","Ativos financeiros setoriais","tbl_bp_ativo",13
+"1.01.08.01.06","Contas a receber da concessão","tbl_bp_ativo",13
+"1.01.08.01.07","Ativos disponíveis para venda","tbl_bp_ativo",13
+"1.01.08.01.08","Outros créditos","tbl_bp_ativo",13
+"1.01.08.01.20","Outros Créditos","tbl_bp_ativo",13
+"1.01.08.02","Ativos de Operações Descontinuadas","tbl_bp_ativo",10
+"1.01.08.02.01","Ativos Mantidos para Venda","tbl_bp_ativo",13
+"1.01.08.02.02","Depósitos Judiciais","tbl_bp_ativo",13
+"1.01.08.02.03","Outros ativos circulantes","tbl_bp_ativo",13
+"1.01.08.02.03","Outros créditos","tbl_bp_ativo",13
+"1.01.08.03","Outros","tbl_bp_ativo",10
+"1.01.08.03.01","Instrumentos Financeiros Derivativos","tbl_bp_ativo",13
+"1.01.08.03.02","Outros","tbl_bp_ativo",13
+"1.01.08.03.03","Outros","tbl_bp_ativo",13
+"1.01.08.03.04","Outros Ativos","tbl_bp_ativo",13
+"1.01.08.03.05","Dividendos a receber","tbl_bp_ativo",13
+"1.01.08.03.06","Outros Créditos","tbl_bp_ativo",13
+"1.01.08.03.07","Valores a receber da parcela A e outros itens financeiros","tbl_bp_ativo",13
+"1.01.08.03.08","Ativos classificados como mantidos para venda","tbl_bp_ativo",13
+"1.01.08.03.09","Instrumentos financeiros derivativos","tbl_bp_ativo",13
+"1.01.08.03.10","Concessão de Serviço público (Ativo Contratual)","tbl_bp_ativo",13
+"1.01.08.03.19","Ativo não circulante disponível para venda","tbl_bp_ativo",13
+"1.01.08.03.20","Outros Créditos","tbl_bp_ativo",13
+"1.01.08.04","Custos de Aquisição Diferidos - Seguros","tbl_bp_ativo",10
+"1.01.08.05","Custos de Aquisição Diferidos - Previdência Complementar","tbl_bp_ativo",10
+"1.01.08.06","Outros Valores e Bens","tbl_bp_ativo",10
+"1.01.09","Outros Ativos Circulantes","tbl_bp_ativo",7
+"1.01.09.01","Ativos Não Correntes a Venda","tbl_bp_ativo",10
+"1.01.09.01.01","Prêmios - Retrocessão","tbl_bp_ativo",13
+"1.01.09.01.02","Sinistros - Retrocessão","tbl_bp_ativo",13
+"1.01.09.01.03","Outras Provisões","tbl_bp_ativo",13
+"1.01.09.02","Ativos de Operações Descontinuadas","tbl_bp_ativo",10
+"1.01.09.03","Outros","tbl_bp_ativo",10
+"1.01.09.03.01","Ativos de Resseguro e Retrocessão - Provisões Técnicas","tbl_bp_ativo",13
+"1.01.09.03.02","Outros","tbl_bp_ativo",13
+"1.01.09.03.03","Impostos a recuperar","tbl_bp_ativo",13
+"1.02","Ativo Não Circulante","tbl_bp_ativo",4
+"1.02.01","Ativo Realizável a Longo Prazo","tbl_bp_ativo",7
+"1.02.01.01","Aplicações Financeiras Avaliadas a Valor Justo","tbl_bp_ativo",10
+"1.02.01.01.01","Títulos para Negociação","tbl_bp_ativo",13
+"1.02.01.01.02","Títulos Disponíveis para Venda","tbl_bp_ativo",13
+"1.02.01.01.03","Títulos e Valores Mobiliários","tbl_bp_ativo",13
+"1.02.01.01.04","Operações de Crédito e Adiantamento a Instituições Financeiras","tbl_bp_ativo",13
+"1.02.01.01.05","Operações de Crédito e Adiantamentos a Clientes","tbl_bp_ativo",13
+"1.02.01.01.06","Títulos para Investimentos","tbl_bp_ativo",13
+"1.02.01.01.07","Despesas de Comercialização de Seguros Diferidas","tbl_bp_ativo",13
+"1.02.01.01.08","Despesas de Resseguro e Retorcessões Diferidas","tbl_bp_ativo",13
+"1.02.01.01.09","Ativos Tributados Diferidos","tbl_bp_ativo",13
+"1.02.01.01.10","Crédito de Operações com Seguros e Resseguros","tbl_bp_ativo",13
+"1.02.01.02","Aplicações Financeiras Avaliadas ao Custo Amortizado","tbl_bp_ativo",10
+"1.02.01.02.01","Títulos Mantidos até o Vencimento","tbl_bp_ativo",13
+"1.02.01.02.02","Títulos Disponíveis para Venda","tbl_bp_ativo",13
+"1.02.01.02.03","Aplicação financeira restrita","tbl_bp_ativo",13
+"1.02.01.02.04","Instrumentos financeiros a valor justo através de outros resultados abrangentes","tbl_bp_ativo",13
+"1.02.01.02.05","Ativos Tributarios Diferidos","tbl_bp_ativo",13
+"1.02.01.02.06","Crédito de Operações com Seguros e Resseguros","tbl_bp_ativo",13
+"1.02.01.03","Contas a Receber","tbl_bp_ativo",10
+"1.02.01.03.01","Clientes","tbl_bp_ativo",13
+"1.02.01.03.02","Outras Contas a Receber","tbl_bp_ativo",13
+"1.02.01.03.03","Títulos Mantidos até o Vencimento","tbl_bp_ativo",13
+"1.02.01.03.04","Ativos de Resseguros e Retrocessões Diferidas","tbl_bp_ativo",13
+"1.02.01.03.05","Ativos Tributarios Diferidos","tbl_bp_ativo",13
+"1.02.01.03.06","Crédito de Operações com Seguros e Resseguros","tbl_bp_ativo",13
+"1.02.01.04","Estoques","tbl_bp_ativo",10
+"1.02.01.04.01","Clientes","tbl_bp_ativo",13
+"1.02.01.04.02","Outras Contas a Receber","tbl_bp_ativo",13
+"1.02.01.04.03","Ativo fiscal diferido","tbl_bp_ativo",13
+"1.02.01.04.04","Depósitos judiciais e fiscais","tbl_bp_ativo",13
+"1.02.01.04.05","Outros créditos a receber","tbl_bp_ativo",13
+"1.02.01.04.06","Outros ativos","tbl_bp_ativo",13
+"1.02.01.04.07","Operações de créditos e adiantamento a instituições financeiras","tbl_bp_ativo",13
+"1.02.01.04.15","Alienação de Investimentos","tbl_bp_ativo",13
+"1.02.01.04.16","Alienação de Estoque","tbl_bp_ativo",13
+"1.02.01.05","Ativos Biológicos","tbl_bp_ativo",10
+"1.02.01.05.01","Imóveis a Comercializar","tbl_bp_ativo",13
+"1.02.01.05.02","Estoque de Terrenos Permuta","tbl_bp_ativo",13
+"1.02.01.05.03","Depósitos Judiciais","tbl_bp_ativo",13
+"1.02.01.05.04","Impostos a recuperar","tbl_bp_ativo",13
+"1.02.01.05.05","Outros Ativos Não Circulantes","tbl_bp_ativo",13
+"1.02.01.06","Tributos Diferidos","tbl_bp_ativo",10
+"1.02.01.06.01","Imposto de Renda e Contribuição Social Diferidos","tbl_bp_ativo",13
+"1.02.01.06.02","Impostos a Recuperar","tbl_bp_ativo",13
+"1.02.01.06.03","Demais Impostos e Contribuições a Recuperar","tbl_bp_ativo",13
+"1.02.01.06.04","Impostos e contribuições a recuperar","tbl_bp_ativo",13
+"1.02.01.06.04","Outras Contas","tbl_bp_ativo",13
+"1.02.01.07","Despesas Antecipadas","tbl_bp_ativo",10
+"1.02.01.07.01","Imposto de Renda e Contribuição Social Diferidos","tbl_bp_ativo",13
+"1.02.01.07.02","Despesas com Vendas a Apropriar","tbl_bp_ativo",13
+"1.02.01.07.02","Impostos a Recuperar","tbl_bp_ativo",13
+"1.02.01.07.03","Demais Impostos e Contribuições a Recuperar","tbl_bp_ativo",13
+"1.02.01.07.04","(-) Provisão para Risco de Crédito","tbl_bp_ativo",13
+"1.02.01.08","Créditos com Partes Relacionadas","tbl_bp_ativo",10
+"1.02.01.08.01","Créditos com Coligadas","tbl_bp_ativo",13
+"1.02.01.08.02","Créditos com Controladas","tbl_bp_ativo",13
+"1.02.01.08.03","Créditos com Controladores","tbl_bp_ativo",13
+"1.02.01.08.04","Créditos com Outras Partes Relacionadas","tbl_bp_ativo",13
+"1.02.01.09","Outros Ativos Não Circulantes","tbl_bp_ativo",10
+"1.02.01.09.01","Ativos Não-Correntes a Venda","tbl_bp_ativo",13
+"1.02.01.09.02","Ativos de Operações Descontinuadas","tbl_bp_ativo",13
+"1.02.01.09.03","Créditos com Controladores","tbl_bp_ativo",13
+"1.02.01.09.04","Créditos com Outras Partes Relacionadas","tbl_bp_ativo",13
+"1.02.01.09.05","Depósitos judiciais","tbl_bp_ativo",13
+"1.02.01.09.06","Depositos Judiciais","tbl_bp_ativo",13
+"1.02.01.09.07","Instrumentos financeiros derivativos","tbl_bp_ativo",13
+"1.02.01.09.08","Outros","tbl_bp_ativo",13
+"1.02.01.09.09","Investimento ao custo","tbl_bp_ativo",13
+"1.02.01.09.10","Bens e Direitos Destinados à Alienação","tbl_bp_ativo",13
+"1.02.01.09.11","(-) Provisão para Créditos de Liquidação Duvidosa","tbl_bp_ativo",13
+"1.02.01.09.12","Outros ativos não circulantes","tbl_bp_ativo",13
+"1.02.01.09.12","Outros créditos","tbl_bp_ativo",13
+"1.02.01.09.13","Derivativos embutidos","tbl_bp_ativo",13
+"1.02.01.09.14","Outros Créditos","tbl_bp_ativo",13
+"1.02.01.09.15","Concessão do serviço público (Ativo financeiro)","tbl_bp_ativo",13
+"1.02.01.09.16","Instrumentos financeiros derivativos","tbl_bp_ativo",13
+"1.02.01.09.17","Outros ativos financeiros não circulantes","tbl_bp_ativo",13
+"1.02.01.09.18","Concessão do serviço público (Ativo contratual)","tbl_bp_ativo",13
+"1.02.01.09.20","Incentivos Fiscais/Outros Créditos","tbl_bp_ativo",13
+"1.02.01.10","Outros Ativos Não Circulantes","tbl_bp_ativo",10
+"1.02.01.10.01","Ativos Não-Correntes a Venda","tbl_bp_ativo",13
+"1.02.01.10.02","Ativos de Operações Descontinuadas","tbl_bp_ativo",13
+"1.02.01.10.03","Depósitos Judiciais","tbl_bp_ativo",13
+"1.02.01.10.04","Depósitos Judiciais","tbl_bp_ativo",13
+"1.02.01.10.05","Depósitos judiciais","tbl_bp_ativo",13
+"1.02.01.10.06","Tributos a recuperar","tbl_bp_ativo",13
+"1.02.01.10.07","Instrumentos financeiros derivativos","tbl_bp_ativo",13
+"1.02.01.10.08","Ativo financeiro da concessão","tbl_bp_ativo",13
+"1.02.01.10.09","Direito de Uso","tbl_bp_ativo",13
+"1.02.01.10.09","Títulos a Receber","tbl_bp_ativo",13
+"1.02.01.10.10","Outros créditos","tbl_bp_ativo",13
+"1.02.01.10.11","Ativo financeiro setorial","tbl_bp_ativo",13
+"1.02.01.10.12","Outros ativos não circulantes","tbl_bp_ativo",13
+"1.02.01.10.13","Juros sobre capital próprio a receber","tbl_bp_ativo",13
+"1.02.01.10.13","Serviços pedidos","tbl_bp_ativo",13
+"1.02.01.10.14","Benefícios pós-emprego e outros benefícios","tbl_bp_ativo",13
+"1.02.01.10.15","Concessão do serviço público (Ativo financeiro)","tbl_bp_ativo",13
+"1.02.01.10.16","Instrumentos financeiros derivativos","tbl_bp_ativo",13
+"1.02.01.10.17","Outros ativos financeiros não circulantes","tbl_bp_ativo",13
+"1.02.01.10.18","Concessão do serviço público (Ativo contratual)","tbl_bp_ativo",13
+"1.02.01.10.19","Direito de uso","tbl_bp_ativo",13
+"1.02.01.10.20","Outros","tbl_bp_ativo",13
+"1.02.01.11","Outros Ativos Não Circulantes","tbl_bp_ativo",10
+"1.02.01.11.01","Ativos Não Correntes a Venda","tbl_bp_ativo",13
+"1.02.01.11.02","Ativos de Operações Descontinuadas","tbl_bp_ativo",13
+"1.02.01.11.03","Ativos de Retrocessão","tbl_bp_ativo",13
+"1.02.01.11.04","Outros ativos não circulantes","tbl_bp_ativo",13
+"1.02.02","Investimentos","tbl_bp_ativo",7
+"1.02.02.01","Participações Societárias","tbl_bp_ativo",10
+"1.02.02.01.01","Participações em Coligadas","tbl_bp_ativo",13
+"1.02.02.01.02","Participações em Coligadas no Exterior","tbl_bp_ativo",13
+"1.02.02.01.04","Outras Participações Societárias","tbl_bp_ativo",13
+"1.02.02.01.05","Outros Investimentos","tbl_bp_ativo",13
+"1.02.02.01.06","Participações em Controladas em Conjunto no Exterior","tbl_bp_ativo",13
+"1.02.02.01.07","Outros Investimentos","tbl_bp_ativo",13
+"1.02.02.02","Propriedades para Investimento","tbl_bp_ativo",10
+"1.02.02.02.01","Outros Investimentos","tbl_bp_ativo",13
+"1.02.02.02.02","Outros","tbl_bp_ativo",13
+"1.02.02.02.03","Participações em Controladas em Conjunto","tbl_bp_ativo",13
+"1.02.02.02.04","Outras Participações Societárias","tbl_bp_ativo",13
+"1.02.02.02.20","Outros","tbl_bp_ativo",13
+"1.02.03","Imobilizado","tbl_bp_ativo",7
+"1.02.03.01","Imobilizado em Operação","tbl_bp_ativo",10
+"1.02.03.01.01","Terrenos","tbl_bp_ativo",13
+"1.02.03.01.02","(-) Depreciação Acumulada","tbl_bp_ativo",13
+"1.02.03.01.02","(-) Depreciações Acumuladas","tbl_bp_ativo",13
+"1.02.03.01.02","Edificações e Benfeitorias","tbl_bp_ativo",13
+"1.02.03.01.03","Máquinas, Equipamentos e Instalações","tbl_bp_ativo",13
+"1.02.03.01.03","Outras Imobilizações","tbl_bp_ativo",13
+"1.02.03.01.04","Propriedades Rurais","tbl_bp_ativo",13
+"1.02.03.01.05","Veículos","tbl_bp_ativo",13
+"1.02.03.01.06","Outros","tbl_bp_ativo",13
+"1.02.03.01.07","Equipamentos de Informática","tbl_bp_ativo",13
+"1.02.03.01.08","Outras Imobilizações","tbl_bp_ativo",13
+"1.02.03.01.09","Animais de Trabalho","tbl_bp_ativo",13
+"1.02.03.01.10","Imobilizações em andamento","tbl_bp_ativo",13
+"1.02.03.01.11","Benfeitorias em Imóveis Próprios","tbl_bp_ativo",13
+"1.02.03.01.14","(-)Depreciações","tbl_bp_ativo",13
+"1.02.03.02","Imobilizado Arrendado","tbl_bp_ativo",10
+"1.02.03.02.01","Imobilizado sob Arrendamento Financeiro","tbl_bp_ativo",13
+"1.02.03.02.02","Imobilizado Direito de Uso","tbl_bp_ativo",13
+"1.02.03.03","Imobilizado em Andamento","tbl_bp_ativo",10
+"1.02.03.03.01","Imobilizações em Curso","tbl_bp_ativo",13
+"1.02.03.03.01","Imobilizado em Curso","tbl_bp_ativo",13
+"1.02.03.03.02","Imobilização em andamento","tbl_bp_ativo",13
+"1.02.03.03.03","Outros","tbl_bp_ativo",13
+"1.02.03.03.04","Adiantamentos a Fornecedores","tbl_bp_ativo",13
+"1.02.03.04","Operações de Crédito e Arrendamento Mercantil Financeiro","tbl_bp_ativo",10
+"1.02.03.05","Outros Ativos Financeiros","tbl_bp_ativo",10
+"1.02.03.06","(-) Provisão para Perda Esperada","tbl_bp_ativo",10
+"1.02.03.07","Operações de crédito e arrendamento mercantil","tbl_bp_ativo",10
+"1.02.03.08","Devedores diversos","tbl_bp_ativo",10
+"1.02.03.09","Provisão para perdas por não recuperação (Impairment)","tbl_bp_ativo",10
+"1.02.03.10","Aplicação em depósitos interfinanceiros","tbl_bp_ativo",10
+"1.02.03.11","Títulos e Valores Mobiliários","tbl_bp_ativo",10
+"1.02.04","Intangível","tbl_bp_ativo",7
+"1.02.04.01","Intangíveis","tbl_bp_ativo",10
+"1.02.04.01.01","Contrato de Concessão","tbl_bp_ativo",13
+"1.02.04.01.02","Outros","tbl_bp_ativo",13
+"1.02.04.01.03","Software","tbl_bp_ativo",13
+"1.02.04.01.04","Softwares","tbl_bp_ativo",13
+"1.02.04.01.05","(-) Amortizações Acumuladas","tbl_bp_ativo",13
+"1.02.04.01.06","(-) Deságio","tbl_bp_ativo",13
+"1.02.04.01.07","Outros Intangíveis","tbl_bp_ativo",13
+"1.02.04.01.08","(-) Amortizações Acumuladas Fair Value","tbl_bp_ativo",13
+"1.02.04.01.09","Ponto Comercial/Goodwill","tbl_bp_ativo",13
+"1.02.04.01.10","Outros","tbl_bp_ativo",13
+"1.02.04.01.11","Intangíveis","tbl_bp_ativo",13
+"1.02.04.02","Goodwill","tbl_bp_ativo",10
+"1.02.04.02.01","Diferido","tbl_bp_ativo",13
+"1.02.04.02.02","Outros","tbl_bp_ativo",13
+"1.02.04.02.03","Goodwill na aquisição da Deca Nordeste em 2011","tbl_bp_ativo",13
+"1.02.04.02.04","Goodwill na aquisição da Ind. Metalúrgica Jacareí em 2012","tbl_bp_ativo",13
+"1.02.04.02.05","Goodwill na aquisição da Thermosystem em 2013","tbl_bp_ativo",13
+"1.02.04.02.06","Goodwill na aquisição da DuchaCorona em 2015","tbl_bp_ativo",13
+"1.02.04.02.07","Goodwill na aquisição da Caetex Florestal","tbl_bp_ativo",13
+"1.02.04.02.08","Goodwill na aquisição da Cerâmica Urussanga em 2017","tbl_bp_ativo",13
+"1.02.04.02.09","Goodwill na aquisição da Massima Revestimentos em 2017","tbl_bp_ativo",13
+"1.02.04.02.10","Goodwill na aquisição da Cecrisa Revestimentos em 2019","tbl_bp_ativo",13
+"1.02.04.02.11","Goodwill Viva Decora","tbl_bp_ativo",13
+"1.02.04.03","Títulos e Valores Mobiliários","tbl_bp_ativo",10
+"1.02.04.04","Operações de Crédito","tbl_bp_ativo",10
+"1.02.04.05","Provisão para Perdas Esperadas Associadas ao Risco de Crédito","tbl_bp_ativo",10
+"1.02.04.06","Operações de Arrendamento","tbl_bp_ativo",10
+"1.02.04.07","Provisão para Perdas Esperadas Associadas ao Risco de Crédito de Operações de Arrendamento","tbl_bp_ativo",10
+"1.02.04.08","Outros Ativos Financeiros","tbl_bp_ativo",10
+"1.03","Empréstimos e Recebíveis","tbl_bp_ativo",4
+"1.03.01","Imposto de Renda e Contribuição Social Diferidos","tbl_bp_ativo",7
+"1.03.02","Imposto de renda e contribuição social a recuperar","tbl_bp_ativo",7
+"1.03.03","Outros","tbl_bp_ativo",7
+"1.03.04","Provisão para perdas por não recuperação (Impairment )","tbl_bp_ativo",7
+"1.03.04","Provisão para perdas por não recuperação (Impairment)(Antes Adoção IFRS 9)","tbl_bp_ativo",7
+"1.03.05","Títulos e Valores Mobiliários","tbl_bp_ativo",7
+"1.03.06","Empréstimos e outros valores com instituições financeiras","tbl_bp_ativo",7
+"1.03.07","Operações de crédito e arrendamento mercantil","tbl_bp_ativo",7
+"1.03.08","Devedores diversos","tbl_bp_ativo",7
+"1.03.09","Provisão para perdas por não recuperação (Impairment)","tbl_bp_ativo",7
+"1.04","Tributos Diferidos","tbl_bp_ativo",4
+"1.04.01","Imposto de Renda e Contribuição Social Diferidos","tbl_bp_ativo",7
+"1.04.02","Ativos de Operações Descontinuadas","tbl_bp_ativo",7
+"1.04.03","Outros","tbl_bp_ativo",7
+"1.04.03.01","Outros ativos","tbl_bp_ativo",10
+"1.04.03.02","Ativos por impostos diferidos","tbl_bp_ativo",10
+"1.04.04","Depósitos compulsórios no Banco Central","tbl_bp_ativo",7
+"1.04.05","Depósitos judiciais","tbl_bp_ativo",7
+"1.04.06","Ativos Financeiros para Resseguros","tbl_bp_ativo",7
+"1.04.07","Contratos de Seguros Vinculados em Pensões","tbl_bp_ativo",7
+"1.04.08","Tributos Correntes","tbl_bp_ativo",7
+"1.05","Outros Ativos","tbl_bp_ativo",4
+"1.05.01","Ativos Não Correntes a Venda","tbl_bp_ativo",7
+"1.05.02","Ativos de Operações Descontinuadas","tbl_bp_ativo",7
+"1.05.02.01","Investimentos em coligadas e controladas em conjunto","tbl_bp_ativo",10
+"1.05.03","Outros","tbl_bp_ativo",7
+"1.05.03.01","Derivativos","tbl_bp_ativo",10
+"1.05.03.02","Operações de Crédito, Líquida","tbl_bp_ativo",10
+"1.05.03.03","Outros Ativos Financeiros","tbl_bp_ativo",10
+"1.05.03.04","Ágio","tbl_bp_ativo",10
+"1.05.03.04","Ativos Financeiros para Resseguros","tbl_bp_ativo",10
+"1.05.03.05","Contratos de Seguros Vinculados em Pensões","tbl_bp_ativo",10
+"1.05.03.05","Outros Ativos","tbl_bp_ativo",10
+"1.05.03.06","Tributos Correntes","tbl_bp_ativo",10
+"1.05.04","Outros Investimentos","tbl_bp_ativo",7
+"1.05.04.01","Titulos de investimentos","tbl_bp_ativo",10
+"1.06","Investimentos","tbl_bp_ativo",4
+"1.06.01","Participações em Coligadas","tbl_bp_ativo",7
+"1.06.01.01","Investimentos em Empresas não Consolidadas","tbl_bp_ativo",10
+"1.06.01.02","Empreendimentos em Conjunto","tbl_bp_ativo",10
+"1.06.02","Outros","tbl_bp_ativo",7
+"1.06.02.01","Outros Investimentos","tbl_bp_ativo",10
+"1.06.02.02","(Provisão para Perdas)","tbl_bp_ativo",10
+"1.06.03","Depreciação Acumulada","tbl_bp_ativo",7
+"1.07","Imobilizado","tbl_bp_ativo",4
+"1.07.01","Imobilizado de Uso","tbl_bp_ativo",7
+"1.07.02","Imobilizado de Arrendamento","tbl_bp_ativo",7
+"1.07.03","Propriedades para Investimento","tbl_bp_ativo",7
+"1.08","Intangível","tbl_bp_ativo",4
+"1.08.01","Intangíveis","tbl_bp_ativo",7
+"1.08.02","Goodwill","tbl_bp_ativo",7
+"2","Passivo Total","tbl_bp_passivo",1
+"2.01","Passivo Circulante","tbl_bp_passivo",4
+"2.01.01","Obrigações Sociais e Trabalhistas","tbl_bp_passivo",7
+"2.01.01.01","Obrigações Sociais","tbl_bp_passivo",10
+"2.01.01.01.01","Encargos sociais","tbl_bp_passivo",13
+"2.01.01.01.01","Encargos Sociais a Pagar","tbl_bp_passivo",13
+"2.01.01.01.01","FGTS","tbl_bp_passivo",13
+"2.01.01.01.01","INSS-FGTS","tbl_bp_passivo",13
+"2.01.01.01.01","Ordenados","tbl_bp_passivo",13
+"2.01.01.01.02","INSS","tbl_bp_passivo",13
+"2.01.01.01.02","Outras Obrigações Sociais","tbl_bp_passivo",13
+"2.01.01.01.03","PIS e COFINS","tbl_bp_passivo",13
+"2.01.01.01.04","Outros","tbl_bp_passivo",13
+"2.01.01.01.05","Outros","tbl_bp_passivo",13
+"2.01.01.02","Obrigações Trabalhistas","tbl_bp_passivo",10
+"2.01.01.02.01","Salários a Pagar","tbl_bp_passivo",13
+"2.01.01.02.02","Programa de Participação no Resultado","tbl_bp_passivo",13
+"2.01.01.02.03","Participação nos Lucros","tbl_bp_passivo",13
+"2.01.01.02.04","Outros","tbl_bp_passivo",13
+"2.01.01.02.05","Provisão de 13º salários e encargos","tbl_bp_passivo",13
+"2.01.01.03","Provisões trabalhistas","tbl_bp_passivo",10
+"2.01.01.04","Provisões para benefícios pós-emprego","tbl_bp_passivo",10
+"2.01.01.05","Impostos e contribuições a recolher","tbl_bp_passivo",10
+"2.01.01.06","Provisões para impostos e contribuições","tbl_bp_passivo",10
+"2.01.01.07","Provisões para desvalorização de Investimento","tbl_bp_passivo",10
+"2.01.01.08","Empréstimos e Financiamentos","tbl_bp_passivo",10
+"2.01.02","Fornecedores","tbl_bp_passivo",7
+"2.01.02.01","Fornecedores Nacionais","tbl_bp_passivo",10
+"2.01.02.01.01","Fornecedores","tbl_bp_passivo",13
+"2.01.02.01.02","Fornecedores de Bens e Serviços","tbl_bp_passivo",13
+"2.01.02.01.03","Ajuste a Valor Presente","tbl_bp_passivo",13
+"2.01.02.01.03","Contas a Pagar por Aquisição de Imóveis - Permuta Física","tbl_bp_passivo",13
+"2.01.02.01.04","Outros débitos operacionais","tbl_bp_passivo",13
+"2.01.02.01.05","Passivo de Arrendamento (CPC 06 (R2)/IFRS 16)","tbl_bp_passivo",13
+"2.01.02.01.06","AVP - Passivo de Arrendamento (CPC 06 (R2)/IFRS 16)","tbl_bp_passivo",13
+"2.01.02.02","Fornecedores Estrangeiros","tbl_bp_passivo",10
+"2.01.02.02.01","Fornecedores Estrangeiros","tbl_bp_passivo",13
+"2.01.02.02.02","Partes relacionadas","tbl_bp_passivo",13
+"2.01.02.02.02","Partes relacionadas no exterior","tbl_bp_passivo",13
+"2.01.02.02.18","04","tbl_bp_passivo",13
+"2.01.02.03","Capitalização","tbl_bp_passivo",10
+"2.01.02.03.01","Capitalização","tbl_bp_passivo",13
+"2.01.02.04","Outras Operações","tbl_bp_passivo",10
+"2.01.02.04.01","Outras Operações","tbl_bp_passivo",13
+"2.01.03","Obrigações Fiscais","tbl_bp_passivo",7
+"2.01.03.01","Obrigações Fiscais Federais","tbl_bp_passivo",10
+"2.01.03.01.01","Imposto de Renda e Contribuição Social a Pagar","tbl_bp_passivo",13
+"2.01.03.01.02","Outras Obrigações Fiscais Federais","tbl_bp_passivo",13
+"2.01.03.01.03","Outras Obrigações Federais","tbl_bp_passivo",13
+"2.01.03.01.04","Outros","tbl_bp_passivo",13
+"2.01.03.01.05","Outros","tbl_bp_passivo",13
+"2.01.03.01.06","Imposto de Renda de Terceiros","tbl_bp_passivo",13
+"2.01.03.01.07","Outros","tbl_bp_passivo",13
+"2.01.03.01.08","INSS - Serviços 3º (PJ)","tbl_bp_passivo",13
+"2.01.03.01.09","Demais Tributos Federais","tbl_bp_passivo",13
+"2.01.03.01.10","(-) Prov. Reconhecimento Receita IPI","tbl_bp_passivo",13
+"2.01.03.01.11","(-) Prov. Reconhecimento Receita ICMS","tbl_bp_passivo",13
+"2.01.03.01.12","(-) Prov. Reconhecimento Receita PIS","tbl_bp_passivo",13
+"2.01.03.01.13","(-) Prov. Reconhecimento Receita COFINS","tbl_bp_passivo",13
+"2.01.03.01.20","Outros","tbl_bp_passivo",13
+"2.01.03.02","Obrigações Fiscais Estaduais","tbl_bp_passivo",10
+"2.01.03.02.01","ICMS","tbl_bp_passivo",13
+"2.01.03.02.02","Impostos parcelados","tbl_bp_passivo",13
+"2.01.03.02.03","CFEM","tbl_bp_passivo",13
+"2.01.03.03","Obrigações Fiscais Municipais","tbl_bp_passivo",10
+"2.01.03.03.01","ISS","tbl_bp_passivo",13
+"2.01.03.03.02","Impostos parcelados","tbl_bp_passivo",13
+"2.01.03.04","Depósitos de terceiros","tbl_bp_passivo",10
+"2.01.04","Empréstimos e Financiamentos","tbl_bp_passivo",7
+"2.01.04.01","Empréstimos e Financiamentos","tbl_bp_passivo",10
+"2.01.04.01.01","Em Moeda Nacional","tbl_bp_passivo",13
+"2.01.04.01.02","Em Moeda Estrangeira","tbl_bp_passivo",13
+"2.01.04.01.03","Provisão de prêmios não ganhos","tbl_bp_passivo",13
+"2.01.04.01.04","Sinistros a liquidar","tbl_bp_passivo",13
+"2.01.04.01.05","Provisão de sinistros ocorridos mas não avisados","tbl_bp_passivo",13
+"2.01.04.01.06","Outras Provisões","tbl_bp_passivo",13
+"2.01.04.02","Debêntures","tbl_bp_passivo",10
+"2.01.04.02.01","Debêntures","tbl_bp_passivo",13
+"2.01.04.02.02","Debêntures","tbl_bp_passivo",13
+"2.01.04.02.03","Debêntures - SFH","tbl_bp_passivo",13
+"2.01.04.03","Financiamento por Arrendamento Financeiro","tbl_bp_passivo",10
+"2.01.04.03.01","Arrendamento Mercantil","tbl_bp_passivo",13
+"2.01.04.03.02","Arrendamento de Direitos de Uso","tbl_bp_passivo",13
+"2.01.04.03.03","Instrumentos financeiros derivativos","tbl_bp_passivo",13
+"2.01.04.03.04","Arrendamentos e concessões","tbl_bp_passivo",13
+"2.01.04.04","Outras Provisões","tbl_bp_passivo",10
+"2.01.05","Outras Obrigações","tbl_bp_passivo",7
+"2.01.05.01","Passivos com Partes Relacionadas","tbl_bp_passivo",10
+"2.01.05.01.01","Débitos com Coligadas","tbl_bp_passivo",13
+"2.01.05.01.03","Débitos com Controladores","tbl_bp_passivo",13
+"2.01.05.01.04","Débitos com Outras Partes Relacionadas","tbl_bp_passivo",13
+"2.01.05.02","Outros","tbl_bp_passivo",10
+"2.01.05.02.01","Dividendos e JCP a Pagar","tbl_bp_passivo",13
+"2.01.05.02.02","Dividendo Mínimo Obrigatório a Pagar","tbl_bp_passivo",13
+"2.01.05.02.03","Obrigações por Pagamentos Baseados em Ações","tbl_bp_passivo",13
+"2.01.05.02.04","Adiantamentos de Clientes","tbl_bp_passivo",13
+"2.01.05.02.05","Outras Contas a Pagar","tbl_bp_passivo",13
+"2.01.05.02.06","Outras Contas a Pagar","tbl_bp_passivo",13
+"2.01.05.02.07","Outras Contas a Pagar","tbl_bp_passivo",13
+"2.01.05.02.08","Outras contas a pagar","tbl_bp_passivo",13
+"2.01.05.02.09","Outras Obrigações","tbl_bp_passivo",13
+"2.01.05.02.10","Arrendamentos e concessões","tbl_bp_passivo",13
+"2.01.05.02.11","Outras contas a pagar","tbl_bp_passivo",13
+"2.01.05.02.12","Outros passivos financeiros","tbl_bp_passivo",13
+"2.01.05.02.13","Taxas regulamentares","tbl_bp_passivo",13
+"2.01.05.02.14","Passivos disponível para venda","tbl_bp_passivo",13
+"2.01.05.02.15","Outras contas a pagar","tbl_bp_passivo",13
+"2.01.05.02.16","Incorporação de redes","tbl_bp_passivo",13
+"2.01.05.02.17","Bandeiras tarifárias CCRBT","tbl_bp_passivo",13
+"2.01.05.02.18","Instrumento finaneiros derivativos","tbl_bp_passivo",13
+"2.01.05.02.19","Outras contas a pagar","tbl_bp_passivo",13
+"2.01.05.02.20","Outros Contas a Pagar","tbl_bp_passivo",13
+"2.01.05.03","Riscos vigentes emitidos","tbl_bp_passivo",10
+"2.01.05.04","Riscos vigentes emitidos","tbl_bp_passivo",10
+"2.01.05.05","Riscos vigentes não emitidos","tbl_bp_passivo",10
+"2.01.05.06","Sinistros a liquidar","tbl_bp_passivo",10
+"2.01.05.07","Provisão de sinistros ocorridos mas não avisados","tbl_bp_passivo",10
+"2.01.05.08","Outras provisões","tbl_bp_passivo",10
+"2.01.06","Provisões","tbl_bp_passivo",7
+"2.01.06.01","Provisões Fiscais Previdenciárias Trabalhistas e Cíveis","tbl_bp_passivo",10
+"2.01.06.01.01","Provisões Fiscais","tbl_bp_passivo",13
+"2.01.06.01.02","Provisões Previdenciárias e Trabalhistas","tbl_bp_passivo",13
+"2.01.06.01.03","Provisões para Benefícios a Empregados","tbl_bp_passivo",13
+"2.01.06.01.04","Provisões Cíveis","tbl_bp_passivo",13
+"2.01.06.01.05","Provisão para Contigências","tbl_bp_passivo",13
+"2.01.06.01.06","Provisão para 13º salário","tbl_bp_passivo",13
+"2.01.06.01.07","Outras","tbl_bp_passivo",13
+"2.01.06.01.08","Provisão de Férias","tbl_bp_passivo",13
+"2.01.06.01.09","Provisão p/ 13º Salário","tbl_bp_passivo",13
+"2.01.06.02","Outras Provisões","tbl_bp_passivo",10
+"2.01.06.02.01","Provisões para Garantias","tbl_bp_passivo",13
+"2.01.06.02.02","Provisões para Reestruturação","tbl_bp_passivo",13
+"2.01.06.02.03","Provisões para Passivos Ambientais e de Desativação","tbl_bp_passivo",13
+"2.01.06.02.04","Provisões Diversas","tbl_bp_passivo",13
+"2.01.06.02.05","Distribuição de participação nos resultados","tbl_bp_passivo",13
+"2.01.06.02.06","Provisões para Participação nos Lucros","tbl_bp_passivo",13
+"2.01.06.02.07","Provisões Técnicas de Seguros - Saúde","tbl_bp_passivo",13
+"2.01.06.02.08","Provisão de Sinistros","tbl_bp_passivo",13
+"2.01.06.02.09","Provisões Técnicas de Seguros - Pessoas","tbl_bp_passivo",13
+"2.01.06.02.10","Passivos relacionados a participação em coligadas e joint ventures","tbl_bp_passivo",13
+"2.01.06.02.11","Provisões Técnicas - Previdência Complementar","tbl_bp_passivo",13
+"2.01.06.02.12","Provisões Técnicas - Capitalização","tbl_bp_passivo",13
+"2.01.06.02.13","Prov. Matem. Benefícios Concedidos","tbl_bp_passivo",13
+"2.01.06.02.14","Provisão de Risco não Expirados","tbl_bp_passivo",13
+"2.01.06.02.15","Provisão de Excedente Financeiro","tbl_bp_passivo",13
+"2.01.06.02.16","Provisão de Benefício a Regularizar","tbl_bp_passivo",13
+"2.01.06.02.17","Outras Provisões","tbl_bp_passivo",13
+"2.01.06.02.18","Provisões Técnicas - Previdência","tbl_bp_passivo",13
+"2.01.06.02.20","Outras provisões","tbl_bp_passivo",13
+"2.01.07","Passivos sobre Ativos Não-Correntes a Venda e Descontinuados","tbl_bp_passivo",7
+"2.01.07.01","Passivos sobre Ativos Não-Correntes a Venda","tbl_bp_passivo",10
+"2.01.07.01.01","Passivos Classificados Como Mantido Para Venda","tbl_bp_passivo",13
+"2.01.07.02","Passivos sobre Ativos de Operações Descontinuadas","tbl_bp_passivo",10
+"2.01.07.02.01","Passivos mantidos para distribuição aos proprietários","tbl_bp_passivo",13
+"2.02","Passivo Não Circulante","tbl_bp_passivo",4
+"2.02.01","Empréstimos e Financiamentos","tbl_bp_passivo",7
+"2.02.01.01","Empréstimos e Financiamentos","tbl_bp_passivo",10
+"2.02.01.01.01","Em Moeda Nacional","tbl_bp_passivo",13
+"2.02.01.01.02","Em Moeda Estrangeira","tbl_bp_passivo",13
+"2.02.01.01.03","Provisões para Impostos e contribuições","tbl_bp_passivo",13
+"2.02.01.01.04","Provisões para benefícios pós-emprego","tbl_bp_passivo",13
+"2.02.01.01.05","Outras contas a pagar","tbl_bp_passivo",13
+"2.02.01.01.06","Empréstimos e Financiamentos","tbl_bp_passivo",13
+"2.02.01.02","Debêntures","tbl_bp_passivo",10
+"2.02.01.02.01","Debêntures","tbl_bp_passivo",13
+"2.02.01.02.02","Debêntures Conversíveis","tbl_bp_passivo",13
+"2.02.01.02.03","Derivativos Embutidos","tbl_bp_passivo",13
+"2.02.01.02.04","Custo de captação","tbl_bp_passivo",13
+"2.02.01.03","Financiamento por Arrendamento Financeiro","tbl_bp_passivo",10
+"2.02.01.03.01","Arrendamento Mercantil","tbl_bp_passivo",13
+"2.02.01.03.02","Previdência Complementar","tbl_bp_passivo",13
+"2.02.01.03.03","Capitalização","tbl_bp_passivo",13
+"2.02.01.03.04","Outras Provisões","tbl_bp_passivo",13
+"2.02.01.04","Outros Passivos","tbl_bp_passivo",10
+"2.02.01.04.01","Contingências fiscais","tbl_bp_passivo",13
+"2.02.01.04.02","Contingências cíveis e trabalhistas","tbl_bp_passivo",13
+"2.02.01.04.03","Contingências previdenciárias","tbl_bp_passivo",13
+"2.02.01.04.04","Outras provisões","tbl_bp_passivo",13
+"2.02.01.04.05","Contas a pagar por aquisição de controladas","tbl_bp_passivo",13
+"2.02.01.04.06","Obrigações Tributárias","tbl_bp_passivo",13
+"2.02.01.05","Tributos Diferidos","tbl_bp_passivo",10
+"2.02.01.05.01","Tributos Diferidos","tbl_bp_passivo",13
+"2.02.01.06","Passivos sobre Ativos Não Correntes a Venda e Descontinuados","tbl_bp_passivo",10
+"2.02.01.06.01","Passivos sobre Ativos Não Correntes a Venda","tbl_bp_passivo",13
+"2.02.01.06.02","Passivos sobre Ativos de Operações Descontinuadas","tbl_bp_passivo",13
+"2.02.01.07","Lucros e Receitas a Apropriar","tbl_bp_passivo",10
+"2.02.01.07.01","Lucros a Apropriar","tbl_bp_passivo",13
+"2.02.01.07.02","Receitas a Apropriar","tbl_bp_passivo",13
+"2.02.01.07.03","Subvenções de Investimento a Apropriar","tbl_bp_passivo",13
+"2.02.01.08","Adiantamento para Futuro Aumento Capital","tbl_bp_passivo",10
+"2.02.01.08.01","Adiantamento para Futuro Aumento Capital","tbl_bp_passivo",13
+"2.02.02","Outras Obrigações","tbl_bp_passivo",7
+"2.02.02.01","Passivos com Partes Relacionadas","tbl_bp_passivo",10
+"2.02.02.01.01","Débitos com Coligadas","tbl_bp_passivo",13
+"2.02.02.01.03","Débitos com Controladores","tbl_bp_passivo",13
+"2.02.02.01.04","Débitos com Outras Partes Relacionadas","tbl_bp_passivo",13
+"2.02.02.02","Outros","tbl_bp_passivo",10
+"2.02.02.02.01","Obrigações por Pagamentos Baseados em Ações","tbl_bp_passivo",13
+"2.02.02.02.02","Adiantamento para Futuro Aumento de Capital","tbl_bp_passivo",13
+"2.02.02.02.03","Fornecedores","tbl_bp_passivo",13
+"2.02.02.02.04","Adiantamento de Clientes","tbl_bp_passivo",13
+"2.02.02.02.05","Fornecedores","tbl_bp_passivo",13
+"2.02.02.02.06","Fornecedores","tbl_bp_passivo",13
+"2.02.02.02.07","Outras contas a pagar","tbl_bp_passivo",13
+"2.02.02.02.08","Fornecedores","tbl_bp_passivo",13
+"2.02.02.02.09","Impostos e Contribuições Sociais","tbl_bp_passivo",13
+"2.02.02.02.10","Obrigações Fiscais","tbl_bp_passivo",13
+"2.02.02.02.11","Outros Passivos","tbl_bp_passivo",13
+"2.02.02.02.12","Demais Tributos e Contribuições Estaduais","tbl_bp_passivo",13
+"2.02.02.02.13","Encargos setoriais","tbl_bp_passivo",13
+"2.02.02.02.14","Incorporação de redes","tbl_bp_passivo",13
+"2.02.02.02.15","Arrendamentos operacionais","tbl_bp_passivo",13
+"2.02.02.02.16","Efeitos da Redução do ICMS na base de cálculo do Pis e Cofins","tbl_bp_passivo",13
+"2.02.02.02.17","Outros Passivos","tbl_bp_passivo",13
+"2.02.02.02.19","Outros Passivos não Circulantes","tbl_bp_passivo",13
+"2.02.02.02.20","Outros Contas a Pagar","tbl_bp_passivo",13
+"2.02.03","Tributos Diferidos","tbl_bp_passivo",7
+"2.02.03.01","Imposto de Renda e Contribuição Social Diferidos","tbl_bp_passivo",10
+"2.02.03.01.01","Imposto de Renda e Contribuição Social Diferidos","tbl_bp_passivo",13
+"2.02.03.01.02","Pis e Cofins Diferidos","tbl_bp_passivo",13
+"2.02.03.01.03","PPI ICMS","tbl_bp_passivo",13
+"2.02.03.01.04","Outros tributos","tbl_bp_passivo",13
+"2.02.04","Provisões","tbl_bp_passivo",7
+"2.02.04.01","Provisões Fiscais Previdenciárias Trabalhistas e Cíveis","tbl_bp_passivo",10
+"2.02.04.01.01","Provisões Fiscais","tbl_bp_passivo",13
+"2.02.04.01.02","Provisões Previdenciárias e Trabalhistas","tbl_bp_passivo",13
+"2.02.04.01.03","Provisões para Benefícios a Empregados","tbl_bp_passivo",13
+"2.02.04.01.04","Provisões Cíveis","tbl_bp_passivo",13
+"2.02.04.01.05","Provisões para Contingências","tbl_bp_passivo",13
+"2.02.04.01.06","Provisões para IR-CSSL ajuste aval. Patrimonial","tbl_bp_passivo",13
+"2.02.04.01.07","Outras","tbl_bp_passivo",13
+"2.02.04.01.08","Outras obrigações tributarias","tbl_bp_passivo",13
+"2.02.04.02","Outras Provisões","tbl_bp_passivo",10
+"2.02.04.02.01","Provisões para Garantias","tbl_bp_passivo",13
+"2.02.04.02.02","Provisões para Reestruturação","tbl_bp_passivo",13
+"2.02.04.02.03","Provisões para Passivos Ambientais e de Desativação","tbl_bp_passivo",13
+"2.02.04.02.04","Provisões Diversas","tbl_bp_passivo",13
+"2.02.04.02.05","Provisão para Desmantelamento de Áreas","tbl_bp_passivo",13
+"2.02.04.02.06","Outras Provisões","tbl_bp_passivo",13
+"2.02.04.02.07","Impostos e Taxas","tbl_bp_passivo",13
+"2.02.04.02.08","IR e CS Diferidos","tbl_bp_passivo",13
+"2.02.04.02.09","Contraprestação contingente","tbl_bp_passivo",13
+"2.02.04.02.10","Passivos relacionados a participação em coligadas e joint ventures","tbl_bp_passivo",13
+"2.02.04.02.11","provisões para processos judiciais","tbl_bp_passivo",13
+"2.02.04.02.12","Debentures participativas","tbl_bp_passivo",13
+"2.02.04.02.13","Garantias financeiras","tbl_bp_passivo",13
+"2.02.04.02.14","Transações de streaming","tbl_bp_passivo",13
+"2.02.04.02.15","Outras provisões","tbl_bp_passivo",13
+"2.02.04.02.20","Outras Provisões","tbl_bp_passivo",13
+"2.02.04.03","Recursos de aceites e emissão de títulos","tbl_bp_passivo",10
+"2.02.04.04","Relações interdependências","tbl_bp_passivo",10
+"2.02.04.05","Obrigações por empréstimos no exterior","tbl_bp_passivo",10
+"2.02.04.06","Obrigações por repasses no país","tbl_bp_passivo",10
+"2.02.04.07","Obrigações por repasses no exterior","tbl_bp_passivo",10
+"2.02.04.08","Dívida subordinada","tbl_bp_passivo",10
+"2.02.05","Passivos sobre Ativos Não-Correntes a Venda e Descontinuados","tbl_bp_passivo",7
+"2.02.05.01","Passivos sobre Ativos Não-Correntes a Venda","tbl_bp_passivo",10
+"2.02.05.01.01","Provisão para Passivo a Descoberto","tbl_bp_passivo",13
+"2.02.05.02","Passivos sobre Ativos de Operações Descontinuadas","tbl_bp_passivo",10
+"2.02.05.02.01","Provisão para Passivo a Descoberto","tbl_bp_passivo",13
+"2.02.05.02.02","Outras contas a pagar","tbl_bp_passivo",13
+"2.02.05.02.08","Valores a receber da parcela A e outros itens financeiros","tbl_bp_passivo",13
+"2.02.06","Lucros e Receitas a Apropriar","tbl_bp_passivo",7
+"2.02.06.01","Lucros a Apropriar","tbl_bp_passivo",10
+"2.02.06.02","Receitas a Apropriar","tbl_bp_passivo",10
+"2.02.06.02.01","Receitas Diferidas","tbl_bp_passivo",13
+"2.02.06.02.02","Receita Diferida - LP","tbl_bp_passivo",13
+"2.02.06.02.02","Receitas de Exercícios Futuros","tbl_bp_passivo",13
+"2.02.06.03","Subvenções de Investimento a Apropriar","tbl_bp_passivo",10
+"2.02.06.03.01","Fundo da Marinha Mercante - AFRMM","tbl_bp_passivo",13
+"2.03","Patrimônio Líquido Consolidado","tbl_bp_passivo",4
+"2.03.01","Capital Social Realizado","tbl_bp_passivo",7
+"2.03.01.01","Capital Social","tbl_bp_passivo",10
+"2.03.01.02","Ações em Tesouraria","tbl_bp_passivo",10
+"2.03.01.03","Capital Social a Integralizar","tbl_bp_passivo",10
+"2.03.01.07","Reserva de Capital Excedente de Capital","tbl_bp_passivo",10
+"2.03.01.08","Plano de opções de ações efetuadas com titulos patrimoniais","tbl_bp_passivo",10
+"2.03.02","Reservas de Capital","tbl_bp_passivo",7
+"2.03.02.01","Ágio na Emissão de Ações","tbl_bp_passivo",10
+"2.03.02.02","Reserva Especial de Ágio na Incorporação","tbl_bp_passivo",10
+"2.03.02.03","Alienação de Bônus de Subscrição","tbl_bp_passivo",10
+"2.03.02.04","Opções Outorgadas","tbl_bp_passivo",10
+"2.03.02.05","Ações em Tesouraria","tbl_bp_passivo",10
+"2.03.02.06","Adiantamento para Futuro Aumento de Capital","tbl_bp_passivo",10
+"2.03.02.07","Reserva de Capital","tbl_bp_passivo",10
+"2.03.02.08","Gastos com Emissão de Ações","tbl_bp_passivo",10
+"2.03.02.09","Outras Reservas de Capital","tbl_bp_passivo",10
+"2.03.02.10","Outras Reservas de Capital","tbl_bp_passivo",10
+"2.03.02.11","Dividendo Adicional Proposto","tbl_bp_passivo",10
+"2.03.02.12","Ajuste de Avaliação Patrimonial","tbl_bp_passivo",10
+"2.03.03","Reservas de Reavaliação","tbl_bp_passivo",7
+"2.03.03.01","Ativos Próprios","tbl_bp_passivo",10
+"2.03.03.02","Ativos de Controlada e Coligada","tbl_bp_passivo",10
+"2.03.04","Reservas de Lucros","tbl_bp_passivo",7
+"2.03.04.01","Reserva Legal","tbl_bp_passivo",10
+"2.03.04.02","Reserva Estatutária","tbl_bp_passivo",10
+"2.03.04.03","Reserva para Contingências","tbl_bp_passivo",10
+"2.03.04.04","Reserva de Lucros a Realizar","tbl_bp_passivo",10
+"2.03.04.05","Reserva de Retenção de Lucros","tbl_bp_passivo",10
+"2.03.04.06","Reserva Especial para Dividendos Não Distribuídos","tbl_bp_passivo",10
+"2.03.04.07","Reserva de Incentivos Fiscais","tbl_bp_passivo",10
+"2.03.04.08","Dividendo Adicional Proposto","tbl_bp_passivo",10
+"2.03.04.09","Ações em Tesouraria","tbl_bp_passivo",10
+"2.03.04.10","Reserva para Investimentos","tbl_bp_passivo",10
+"2.03.04.11","Ágio em Transações do Capital","tbl_bp_passivo",10
+"2.03.04.12","Outros resultados abragentes","tbl_bp_passivo",10
+"2.03.04.13","Reserva de Lucro","tbl_bp_passivo",10
+"2.03.04.14","Liquidação de Instrumento Patrimonial","tbl_bp_passivo",10
+"2.03.04.20","Isenção e Redução para Imposto de Renda","tbl_bp_passivo",10
+"2.03.05","Lucros/Prejuízos Acumulados","tbl_bp_passivo",7
+"2.03.06","Ajustes de Avaliação Patrimonial","tbl_bp_passivo",7
+"2.03.06.01","Ajustes de Avaliação Patrimonial","tbl_bp_passivo",10
+"2.03.06.02","Reserva Reflexo Controlada","tbl_bp_passivo",10
+"2.03.06.03","Ajustes de IFRS - Variação Patrimonial","tbl_bp_passivo",10
+"2.03.06.04","Ajustes de Avaliação Patrimonial","tbl_bp_passivo",10
+"2.03.06.05","Ajustes de Variação  Cambial","tbl_bp_passivo",10
+"2.03.06.06","Combinação de Negócios","tbl_bp_passivo",10
+"2.03.06.07","Ajustes Contábeis de Transações entre Sócios","tbl_bp_passivo",10
+"2.03.06.09","Participação dos Acionistas Não Controladores","tbl_bp_passivo",10
+"2.03.07","Ajustes Acumulados de Conversão","tbl_bp_passivo",7
+"2.03.07.01","Ajustes Acumulados de Conversão","tbl_bp_passivo",10
+"2.03.07.02","Ajuste Lei 11.638/07","tbl_bp_passivo",10
+"2.03.08","Outros Resultados Abrangentes","tbl_bp_passivo",7
+"2.03.08.01","Ajuste Valor Atribuído ao Ativo Imobilizado","tbl_bp_passivo",10
+"2.03.08.02","Ativos financeiros disponíveis para venda","tbl_bp_passivo",10
+"2.03.08.02","Outros Resultados Abrangentes","tbl_bp_passivo",10
+"2.03.08.03","Outros Resultados Abrangentes","tbl_bp_passivo",10
+"2.03.08.04","IR/CS diferidos","tbl_bp_passivo",10
+"2.03.08.05","Resultado Diferido da Aquisição de Controladas","tbl_bp_passivo",10
+"2.03.08.06","Combinação de Negócios","tbl_bp_passivo",10
+"2.03.08.07","Ajustes Contábeis de Transações entre Sócios","tbl_bp_passivo",10
+"2.03.08.09","Participação dos Acionistas Não Controladores","tbl_bp_passivo",10
+"2.03.09","Participação dos Acionistas Não Controladores","tbl_bp_passivo",7
+"2.04","Provisões","tbl_bp_passivo",4
+"2.04.01","Fundo para Pensões e Obrigações Similares","tbl_bp_passivo",7
+"2.04.02","Provisões para Impostos e Outras Contingências Legais","tbl_bp_passivo",7
+"2.04.03","Provisões para Riscos e Compromissos Contingentes","tbl_bp_passivo",7
+"2.04.04","Outras Provisões","tbl_bp_passivo",7
+"2.05","Passivos Fiscais","tbl_bp_passivo",4
+"2.05.01","Imposto de Renda e Contribuição Social Correntes","tbl_bp_passivo",7
+"2.05.02","Imposto de Renda e Contribuição Social Diferidos","tbl_bp_passivo",7
+"2.05.03","Outros","tbl_bp_passivo",7
+"2.06","Outros Passivos","tbl_bp_passivo",4
+"2.06.01","Outros Passivos Financeiros","tbl_bp_passivo",7
+"2.06.02","Provisão de Seguros e Previdência Privada","tbl_bp_passivo",7
+"2.06.03","Passivo de Planos de Capitalização","tbl_bp_passivo",7
+"2.06.04","Outros Passivos","tbl_bp_passivo",7
+"2.06.05","Provisão para Perda Esperada","tbl_bp_passivo",7
+"2.06.06","Outros Passivos Financeiros","tbl_bp_passivo",7
+"2.06.07","Provisões de Seguros e Previdência Privada","tbl_bp_passivo",7
+"2.06.08","Passivos de Planos de Capitalização","tbl_bp_passivo",7
+"2.06.09","Outros Passivos","tbl_bp_passivo",7
+"2.07","Passivos sobre Ativos Não Correntes a Venda e Descontinuados","tbl_bp_passivo",4
+"2.07.01","Passivos sobre Ativos Não Correntes a Venda","tbl_bp_passivo",7
+"2.07.01.01","Capital Social Realizado","tbl_bp_passivo",10
+"2.07.01.02","Reservas de Capital","tbl_bp_passivo",10
+"2.07.01.02.01","Ágio na Emissão de Ações","tbl_bp_passivo",13
+"2.07.01.02.02","Reserva Especial de Ágio na Incorporação","tbl_bp_passivo",13
+"2.07.01.02.03","Alienação de Bônus de Subscrição","tbl_bp_passivo",13
+"2.07.01.02.04","Opções Outorgadas","tbl_bp_passivo",13
+"2.07.01.02.05","Ações em Tesouraria","tbl_bp_passivo",13
+"2.07.01.03","Reservas de Reavaliação","tbl_bp_passivo",10
+"2.07.01.04","Reservas de Lucros","tbl_bp_passivo",10
+"2.07.01.04.01","Reserva Legal","tbl_bp_passivo",13
+"2.07.01.04.02","Reserva Estatutária","tbl_bp_passivo",13
+"2.07.01.04.03","Reserva para Contingências","tbl_bp_passivo",13
+"2.07.01.04.04","Reserva de Lucros a Realizar","tbl_bp_passivo",13
+"2.07.01.04.05","Reserva de Retenção de Lucros","tbl_bp_passivo",13
+"2.07.01.04.06","Reserva Especial para Dividendos Não Distribuídos","tbl_bp_passivo",13
+"2.07.01.04.07","Reserva de Incentivos Fiscais","tbl_bp_passivo",13
+"2.07.01.04.08","Dividendo Adicional Proposto","tbl_bp_passivo",13
+"2.07.01.04.09","Ações em Tesouraria","tbl_bp_passivo",13
+"2.07.01.05","Lucros/Prejuízos Acumulados","tbl_bp_passivo",10
+"2.07.01.06","Ajustes de Avaliação Patrimonial","tbl_bp_passivo",10
+"2.07.01.07","Ajustes Acumulados de Conversão","tbl_bp_passivo",10
+"2.07.01.08","Outros Resultados Abrangentes","tbl_bp_passivo",10
+"2.07.02","Passivos sobre Ativos de Operações Descontinuadas","tbl_bp_passivo",7
+"2.08","Patrimônio Líquido Consolidado","tbl_bp_passivo",4
+"2.08.01","Capital Social Realizado","tbl_bp_passivo",7
+"2.08.01.01","Capital Social","tbl_bp_passivo",10
+"2.08.01.02","Reservas","tbl_bp_passivo",10
+"2.08.01.03","Ações em Tesouraria","tbl_bp_passivo",10
+"2.08.01.04","Lucro do Período Atribuível à Controladora","tbl_bp_passivo",10
+"2.08.01.05","menos: Dividendos e Remuneração","tbl_bp_passivo",10
+"2.08.01.06","Prêmio de Emissão","tbl_bp_passivo",10
+"2.08.01.07","Outros Instrumentos de Capital Próprio","tbl_bp_passivo",10
+"2.08.02","Reservas de Capital","tbl_bp_passivo",7
+"2.08.02.01","Ágio na Emissão de Ações","tbl_bp_passivo",10
+"2.08.02.02","Reserva Especial de Ágio na Incorporação","tbl_bp_passivo",10
+"2.08.02.03","Alienação de Bônus de Subscrição","tbl_bp_passivo",10
+"2.08.02.04","Opções Outorgadas","tbl_bp_passivo",10
+"2.08.02.05","Ações em Tesouraria","tbl_bp_passivo",10
+"2.08.02.06","Reservas de Capital","tbl_bp_passivo",10
+"2.08.02.07","Ações em Tesouraria","tbl_bp_passivo",10
+"2.08.03","Reservas de Reavaliação","tbl_bp_passivo",7
+"2.08.04","Reservas de Lucros","tbl_bp_passivo",7
+"2.08.04.01","Reserva Legal","tbl_bp_passivo",10
+"2.08.04.02","Reserva Estatutária","tbl_bp_passivo",10
+"2.08.04.03","Reserva para Contingências","tbl_bp_passivo",10
+"2.08.04.04","Reserva de Lucros a Realizar","tbl_bp_passivo",10
+"2.08.04.05","Reserva de Retenção de Lucros","tbl_bp_passivo",10
+"2.08.04.06","Reserva Especial para Dividendos Não Distribuídos","tbl_bp_passivo",10
+"2.08.04.07","Reserva de Incentivos Fiscais","tbl_bp_passivo",10
+"2.08.04.08","Dividendo Adicional Proposto","tbl_bp_passivo",10
+"2.08.04.09","Ações em Tesouraria","tbl_bp_passivo",10
+"2.08.04.10","Reservas Integralizadas","tbl_bp_passivo",10
+"2.08.04.11","Reservas a Integralizar","tbl_bp_passivo",10
+"2.08.05","Lucros/Prejuízos Acumulados","tbl_bp_passivo",7
+"2.08.06","Ajustes de Avaliação Patrimonial","tbl_bp_passivo",7
+"2.08.06.01","Reserva de Ajuste ao Valor Justo","tbl_bp_passivo",10
+"2.08.07","Ajustes Acumulados de Conversão","tbl_bp_passivo",7
+"2.08.08","Outros Resultados Abrangentes","tbl_bp_passivo",7
+"2.08.08.01","Ativos Financeiros Disponíveis para Venda","tbl_bp_passivo",10
+"2.08.08.02","Hedges de Fluxo de Caixa","tbl_bp_passivo",10
+"2.08.08.03","Hedges de Investimentos Líquidos de Negócios no Exterior","tbl_bp_passivo",10
+"2.08.08.04","Diferenças de Câmbio","tbl_bp_passivo",10
+"2.08.08.05","Ativos Não Correntes para Venda","tbl_bp_passivo",10
+"2.08.08.06","Entidades Contabilizadas Usando o Método da Equivalência Patrimonial","tbl_bp_passivo",10
+"2.08.08.07","Outros Ajustes de Avaliação","tbl_bp_passivo",10
+"2.08.09","Participação dos Acionistas Não Controladores","tbl_bp_passivo",7
+"3.01","Receita de Venda de Bens e/ou Serviços","tbl_dre",4
+"3.01.01","Receita Bruta de Vendas e/ou Serviços","tbl_dre",7
+"3.01.01.01","Prêmios de Seguros Ganhos","tbl_dre",10
+"3.01.01.02","Outras Receitas de Seguros","tbl_dre",10
+"3.01.02","Transporte de Cargas e Outros","tbl_dre",7
+"3.01.02.01","Prêmios de Resseguros Ganhos","tbl_dre",10
+"3.01.02.02","Outras Receitas de Resseguros","tbl_dre",10
+"3.01.03","Taxa de Administração","tbl_dre",7
+"3.01.03.01","Rendas de Contribuições Retidas","tbl_dre",10
+"3.01.03.02","Variações das Provisões Técnicas","tbl_dre",10
+"3.01.03.03","Outras Receitas de Prev. Complementar","tbl_dre",10
+"3.01.04","Cancelamentos e Descontos","tbl_dre",7
+"3.01.04.01","Receita Líquida com Títs. Capitalização","tbl_dre",10
+"3.01.04.02","Variações das Provisões Técnicas","tbl_dre",10
+"3.01.04.03","Outras Receitas de Capitalização","tbl_dre",10
+"3.01.05","Impostos s/ Vendas","tbl_dre",7
+"3.01.06","Operações de assistência a saúde","tbl_dre",7
+"3.01.07","Gestão de ativos","tbl_dre",7
+"3.01.08","Outras Receitas Operacionais","tbl_dre",7
+"3.01.09","Variação das Provisões Técnicas - Seguros","tbl_dre",7
+"3.01.10","Variação das Provisões Técnicas - Previdência","tbl_dre",7
+"3.01.11","Ganho na compra de investimentos","tbl_dre",7
+"3.02","Custo dos Bens e/ou Serviços Vendidos","tbl_dre",4
+"3.02.01","Custo com energia elétrica","tbl_dre",7
+"3.02.01.01","Sinistros Retidos de Seguros","tbl_dre",10
+"3.02.01.02","Despesas de Comercialização de Seguros","tbl_dre",10
+"3.02.01.03","Outras Despesas de Seguros","tbl_dre",10
+"3.02.02","Custo de operação","tbl_dre",7
+"3.02.02.01","Sinistros Retidos de Resseguros","tbl_dre",10
+"3.02.02.02","Despesas de Comercialização de Resseguros","tbl_dre",10
+"3.02.02.03","Outras Despesas de Resseguros","tbl_dre",10
+"3.02.03","Materiais Odontológicos","tbl_dre",7
+"3.02.03.01","Despesas com Benefícios e Resgates","tbl_dre",10
+"3.02.03.02","Despesas de Comercialização de Prev. Complementar","tbl_dre",10
+"3.02.03.03","Outras Despesas de Prev. Complementar","tbl_dre",10
+"3.02.04","Custo de produção de energia elétrica","tbl_dre",7
+"3.02.04.01","Despesas com Resgates e Sorteios","tbl_dre",10
+"3.02.04.02","Despesas de Comercialização de Op. de Capitalização","tbl_dre",10
+"3.02.04.03","Outras Despesas de Op. de Capitalização","tbl_dre",10
+"3.02.05","Custo dos serviços prestados","tbl_dre",7
+"3.02.06","Serviços terceiros","tbl_dre",7
+"3.02.07","Depreciação e amortização","tbl_dre",7
+"3.02.08","Operações de assistência a saúde","tbl_dre",7
+"3.02.09","Custo de construção","tbl_dre",7
+"3.02.10","Outras Despesas Operacionais","tbl_dre",7
+"3.02.11","Custo serviços prestados a terceiros","tbl_dre",7
+"3.02.12","Outras","tbl_dre",7
+"3.02.13","Outras","tbl_dre",7
+"3.03","Resultado Bruto","tbl_dre",4
+"3.04","Despesas/Receitas Operacionais","tbl_dre",4
+"3.04.01","Despesas com Vendas","tbl_dre",7
+"3.04.01.01","Despesas com Vendas","tbl_dre",10
+"3.04.01.02","Despesas com Propaganda","tbl_dre",10
+"3.04.01.03","Despesas com Promoção de Vendas","tbl_dre",10
+"3.04.01.04","Despesas com Fretes","tbl_dre",10
+"3.04.01.05","Provisão para Devedores Duvidosos","tbl_dre",10
+"3.04.01.06","Serviços de Terceiros","tbl_dre",10
+"3.04.01.07","Despesas de Viagem","tbl_dre",10
+"3.04.01.08","Despesas com Aluguéis","tbl_dre",10
+"3.04.01.09","Outras Despesas","tbl_dre",10
+"3.04.01.10","Outras Despesas","tbl_dre",10
+"3.04.02","Despesas Gerais e Administrativas","tbl_dre",7
+"3.04.02.01","Despesas Gerais e Administrativas","tbl_dre",10
+"3.04.02.02","Honorários da Administração","tbl_dre",10
+"3.04.02.03","Depreciação e Amortização","tbl_dre",10
+"3.04.02.04","Depreciação e Amortização","tbl_dre",10
+"3.04.02.05","Materiais Diversos","tbl_dre",10
+"3.04.02.06","Despesa de Depreciação","tbl_dre",10
+"3.04.02.07","Despesas de Aluguéis","tbl_dre",10
+"3.04.02.08","Outras Despesas","tbl_dre",10
+"3.04.02.09","Perda esperada com contas a receber","tbl_dre",10
+"3.04.02.10","Serviços de terceiros","tbl_dre",10
+"3.04.02.11","Outras receitas (despesas) operacionais, liquidas","tbl_dre",10
+"3.04.02.11","Resultado com investimentos","tbl_dre",10
+"3.04.02.20","Outras","tbl_dre",10
+"3.04.03","Perdas pela Não Recuperabilidade de Ativos","tbl_dre",7
+"3.04.03.01","Valor Realizável Líquido de Estoque","tbl_dre",10
+"3.04.03.02","Resultado de alienação/baixa de participação JV/coligadas","tbl_dre",10
+"3.04.03.03","Comunicações","tbl_dre",10
+"3.04.03.04","Instalações","tbl_dre",10
+"3.04.03.05","Depreciação e amortização","tbl_dre",10
+"3.04.03.06","Outras despesas","tbl_dre",10
+"3.04.04","Outras Receitas Operacionais","tbl_dre",7
+"3.04.04.01","Outras Receitas Operacionais","tbl_dre",10
+"3.04.04.02","Outras Receitas Operacionais","tbl_dre",10
+"3.04.04.03","Outras Receitas","tbl_dre",10
+"3.04.04.04","Outras receitas operacionais","tbl_dre",10
+"3.04.04.05","Resultado de Variação Cambial","tbl_dre",10
+"3.04.04.06","Resultado da Atividade Financeira","tbl_dre",10
+"3.04.04.07","Receitas com Imóveis de Renda","tbl_dre",10
+"3.04.04.08","Outras Receitas Patrimoniais","tbl_dre",10
+"3.04.04.09","Rendas com Taxa de Gestão - Seguros","tbl_dre",10
+"3.04.04.10","Rendas com Taxa de Gestão - Previdência","tbl_dre",10
+"3.04.04.11","Resultado na Alienação de Ativos - Investimentos, Imobilizado e Intangível","tbl_dre",10
+"3.04.04.12","Receita com administração com títulos de capitalização","tbl_dre",10
+"3.04.04.12","Rendas com Taxa de Gestão - Previdência","tbl_dre",10
+"3.04.04.13","Ganhos ou Perdas com ativos não correntes","tbl_dre",10
+"3.04.04.13","Resultado na Alienação de Ativos - Investimentos, Imobilizado e Intangível","tbl_dre",10
+"3.04.04.14","Ajustes de Investimentos em Controladas e Coligadas","tbl_dre",10
+"3.04.04.18","Outras Receitas Operacionais","tbl_dre",10
+"3.04.04.19","(Constituição)/ reversão de provisões operacionais","tbl_dre",10
+"3.04.04.20","Outras Receitas Operacionais","tbl_dre",10
+"3.04.05","Outras Despesas Operacionais","tbl_dre",7
+"3.04.05.01","Outras Despesas Operacionais","tbl_dre",10
+"3.04.05.02","Outras, Líquidas","tbl_dre",10
+"3.04.05.03","Outras Despesas Operacionais","tbl_dre",10
+"3.04.05.04","Participação nos Lucros ou Resultados","tbl_dre",10
+"3.04.05.05","Recuperação de resseguradores","tbl_dre",10
+"3.04.05.06","Baixa de gastos adicionais capitalizados indevidamente","tbl_dre",10
+"3.04.05.07","Custos de aquisição - seguros","tbl_dre",10
+"3.04.05.08","Custos de aquisição - outros","tbl_dre",10
+"3.04.05.09","Custos dos serviços prestados","tbl_dre",10
+"3.04.05.10","Outras despesas operacionais","tbl_dre",10
+"3.04.05.11","Outras Despesas Operacionais - Capitalização","tbl_dre",10
+"3.04.05.12","Ganhos ou Perdas com ativos não correntes","tbl_dre",10
+"3.04.05.13","Prêmios","tbl_dre",10
+"3.04.05.14","Liquidação de contratos","tbl_dre",10
+"3.04.05.18","Outras Despesas Operacionais","tbl_dre",10
+"3.04.05.19","(Constituição)/ reversão de provisões operacionais","tbl_dre",10
+"3.04.05.20","Outras Despesas Operacionais","tbl_dre",10
+"3.04.06","Resultado de Equivalência Patrimonial","tbl_dre",7
+"3.04.06.01","Equivalência Patrimonial","tbl_dre",10
+"3.04.06.02","Provisão para passivo a descoberto de controladas em conjunto","tbl_dre",10
+"3.04.06.03","Resultado de não controladores","tbl_dre",10
+"3.04.06.04","Perdas com Outros Ativos - Impairment","tbl_dre",10
+"3.04.06.05","Outras Despesas Operacionais","tbl_dre",10
+"3.04.06.06","Outras Despesas Operacionais","tbl_dre",10
+"3.04.07","Resultado da Equivalência Patrimonial","tbl_dre",7
+"3.04.07.01","Equivalência Patrimonial","tbl_dre",10
+"3.04.07.02","Depreciações e amortizações","tbl_dre",10
+"3.04.08","Outras Despesas Administrativas","tbl_dre",7
+"3.04.08.01","Institucionais e legais","tbl_dre",10
+"3.04.08.02","Outros resultados","tbl_dre",10
+"3.04.08.03","Perda esperada com contas a receber","tbl_dre",10
+"3.04.08.04","Depreciação e amortização","tbl_dre",10
+"3.05","Resultado Antes do Resultado Financeiro e dos Tributos","tbl_dre",4
+"3.05.01","Outras receitas (despesas) operacionais líquidas","tbl_dre",7
+"3.06","Resultado Financeiro","tbl_dre",4
+"3.06.01","Receitas Financeiras","tbl_dre",7
+"3.06.01.01","Receitas Financeiras","tbl_dre",10
+"3.06.01.02","Variações Cambiais, Líquidas","tbl_dre",10
+"3.06.01.03","Ganhos com instrumentos financeiros, líquido","tbl_dre",10
+"3.06.01.04","Outros","tbl_dre",10
+"3.06.01.05","Outras Receitas Financeiras","tbl_dre",10
+"3.06.01.06","Juros sobre Operações de Mútuo","tbl_dre",10
+"3.06.01.07","Ajuste a valor presente","tbl_dre",10
+"3.06.01.08","Atualização financeira de ativos setoriais","tbl_dre",10
+"3.06.01.09","Tributos sobre receitas financeiras","tbl_dre",10
+"3.06.01.10","Outras receitas","tbl_dre",10
+"3.06.01.11","Outras receitas","tbl_dre",10
+"3.06.01.20","Outros","tbl_dre",10
+"3.06.02","Despesas Financeiras","tbl_dre",7
+"3.06.02.01","Despesas Financeiras","tbl_dre",10
+"3.06.02.02","Despesas Bancárias, Impostos, Descontos e Outros","tbl_dre",10
+"3.06.02.03","Variações Cambiais, Líquidas","tbl_dre",10
+"3.06.02.04","Ajuste valor presente de ativos","tbl_dre",10
+"3.06.02.05","Marcação a mercado derivativos","tbl_dre",10
+"3.06.02.06","Instrumentos financeiros derivativos","tbl_dre",10
+"3.06.02.07","Acordos extrajudiciais","tbl_dre",10
+"3.06.02.07","Atualização PEE e P&D","tbl_dre",10
+"3.06.02.08","Despesas bancárias","tbl_dre",10
+"3.06.02.09","Juros/ multas","tbl_dre",10
+"3.06.02.10","Atualização contingências","tbl_dre",10
+"3.06.02.11","Marcação a mercado da dívida","tbl_dre",10
+"3.06.02.12","Atualização financeira de passivos setoriais","tbl_dre",10
+"3.06.02.13","Despesa de aval","tbl_dre",10
+"3.06.02.14","Atualização sobre os efeitos da Redução do ICMS na base do Pis e Cofins","tbl_dre",10
+"3.06.02.14","Outras despesas financeiras","tbl_dre",10
+"3.06.02.15","Outras despesas financeiras","tbl_dre",10
+"3.06.02.16","Despesa de Aval","tbl_dre",10
+"3.06.02.17","Atualização contingencias","tbl_dre",10
+"3.06.02.18","Outras despesas financeiras","tbl_dre",10
+"3.06.02.20","Outros","tbl_dre",10
+"3.07","Resultado Antes dos Tributos sobre o Lucro","tbl_dre",4
+"3.08","Imposto de Renda e Contribuição Social sobre o Lucro","tbl_dre",4
+"3.08.01","Corrente","tbl_dre",7
+"3.08.01.01","Receitas Financeiras","tbl_dre",10
+"3.08.01.02","Outros resultados financeiros líquidos","tbl_dre",10
+"3.08.02","Diferido","tbl_dre",7
+"3.08.02.01","Despesas financeiras","tbl_dre",10
+"3.09","Resultado Líquido das Operações Continuadas","tbl_dre",4
+"3.09.01","Atribuído a Sócios da Empresa Controladora","tbl_dre",7
+"3.09.02","Atribuído a Sócios Não Controladores","tbl_dre",7
+"3.10","Resultado Líquido de Operações Descontinuadas","tbl_dre",4
+"3.10.01","Lucro/Prejuízo Líquido das Operações Descontinuadas","tbl_dre",7
+"3.10.01.01","Part. Acionistas não Controladores","tbl_dre",10
+"3.10.01.01","Resultado com operações descontinuadas","tbl_dre",10
+"3.10.01.02","Imposto de renda e contribuição social - correntes","tbl_dre",10
+"3.10.01.03","Imposto de renda e contribuição social - diferidos","tbl_dre",10
+"3.10.01.20","Participação de Acionistas não Controladores","tbl_dre",10
+"3.10.01.20","Participações de Acionistas Não Controladores","tbl_dre",10
+"3.10.02","Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas","tbl_dre",7
+"3.10.02.01","Participações Minoritárias","tbl_dre",10
+"3.10.02.02","Participantes de Minoritários em Controladas","tbl_dre",10
+"3.10.02.20","Resultados atribuidos aos minoritarios","tbl_dre",10
+"3.11","Lucro/Prejuízo Consolidado do Período","tbl_dre",4
+"3.11.01","Atribuído a Sócios da Empresa Controladora","tbl_dre",7
+"3.11.01.01","Lucro líquido atribuível aos acionistas do Paraná Banco S.A.","tbl_dre",10
+"3.11.02","Atribuído a Sócios Não Controladores","tbl_dre",7
+"3.12","Resultado Líquido de Operações Descontinuadas","tbl_dre",4
+"3.12.01","Lucro/Prejuízo Líquido das Operações Descontinuadas","tbl_dre",7
+"3.12.02","Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas","tbl_dre",7
+"3.13","Lucro/Prejuízo Consolidado do Período","tbl_dre",4
+"3.13.01","Atribuído a Sócios da Empresa Controladora","tbl_dre",7
+"3.13.02","Atribuído a Sócios Não Controladores","tbl_dre",7
+"3.99","Lucro por Ação - (Reais / Ação)","tbl_dre",4
+"3.99.01","Lucro Básico por Ação","tbl_dre",7
+"3.99.01.01","ON","tbl_dre",10
+"3.99.01.02","PN","tbl_dre",10
+"3.99.01.03","PNB","tbl_dre",10
+"3.99.01.04","PNC","tbl_dre",10
+"3.99.01.05","PND","tbl_dre",10
+"3.99.01.06","PNE","tbl_dre",10
+"3.99.01.07","PNF","tbl_dre",10
+"3.99.02","Lucro Diluído por Ação","tbl_dre",7
+"3.99.02.01","ON","tbl_dre",10
+"3.99.02.02","PN","tbl_dre",10
+"3.99.02.03","PNB","tbl_dre",10
+"3.99.02.04","PNC","tbl_dre",10
+"3.99.02.05","PND","tbl_dre",10
+"3.99.02.06","PNE","tbl_dre",10
+"3.99.02.07","PNF","tbl_dre",10
+"3.99.02.08","PNF","tbl_dre",10

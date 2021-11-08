@@ -24,4 +24,9 @@ Imports:
     sidrar,
     ipeadatar,
     utils,
-    lubridate
+    lubridate,
+    plotly,
+    reshape2,
+    shinydashboard,
+    shiny
+    

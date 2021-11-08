@@ -15,7 +15,7 @@
 #'@import dplyr
 
 
-construir_bd<-function(anos,diretorio="output/",gerar_cotacao=FALSE){
+construir_bd<-function(anos=seq(2011,2021),diretorio="",gerar_cotacao=TRUE){
   #Capturar dados da CVM
   bulk=serie_CVM(anos)
   #Construir  TBL_DRE a partir de dados da CVM
@@ -72,7 +72,7 @@ construir_bd<-function(anos,diretorio="output/",gerar_cotacao=FALSE){
                                         str_tabela,
                                         nchar=stringr::str_length(cd_conta))
   if(gerar_cotacao==TRUE){
-    tbl_cotacoes=get_acoes(tickers=tbl_ticker$str_ticker,as.Date('2021-01-01'))
+    tbl_cotacoes=get_acoes(tickers=tbl_ticker$str_ticker,as.Date('2000-01-01'))
     write.csv(tbl_cotacoes,paste(diretorio,"tbl_cotacoes.csv",sep=""),row.names=FALSE)
   }  
   utils::write.csv(tbl_dre,paste(diretorio,"tbl_dre.csv",sep=""),row.names=FALSE)

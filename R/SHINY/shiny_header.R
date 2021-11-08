@@ -1,2 +1,0 @@
-
-header= dashboardHeader(dropdownMenuOutput("messageMenu"))
