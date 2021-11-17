@@ -21,7 +21,7 @@ A partir de um crawler oriundo do site fundamentus, cria um depara entre o ticke
 na bolsa e a sau razao social
 }
 \examples{
-buscar_setores() 
+buscar_setores()
 }
 \author{
 Pedro Cavalcante

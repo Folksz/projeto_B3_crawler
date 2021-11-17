@@ -7,6 +7,7 @@
 #' @import dplyr
 #' @import shinydashboard
 #' @import shiny
+#' @import plotly
 
 
 
