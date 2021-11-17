@@ -9,13 +9,16 @@
 #' @export
 
 
-ticker_empresa<-function(){
-  html="https://www.fundamentus.com.br/detalhes.php?papel="
-  depara=(xml2::read_html(html)%>%rvest::html_nodes(xpath='//*[@id="test1"]')%>%rvest::html_table())[[1]]
-  colnames(depara)=c("str_ticker","str_nome_cia_ticker","str_razao_social")
+ticker_empresa <- function() {
+  html = "https://www.fundamentus.com.br/detalhes.php?papel="
+  depara = (
+    xml2::read_html(html) %>% rvest::html_nodes(xpath = '//*[@id="test1"]') %>%
+      rvest::html_table()
+  )[[1]]
+  colnames(depara) = c("str_ticker", "str_nome_cia_ticker", "str_razao_social")
   #Tira os Espacos
-  depara$str_razao_social=stringi::stri_trans_general(depara$str_razao_social, "Latin-ASCII")
+  depara$str_razao_social = stringi::stri_trans_general(depara$str_razao_social, "Latin-ASCII")
   #Tira o Traco
-  depara$str_razao_social=  gsub("- ","",as.character(depara$str_razao_social))
+  depara$str_razao_social =  gsub("- ", "", as.character(depara$str_razao_social))
   return (depara)
 }
