@@ -15,8 +15,12 @@ Database Creation from a CVM Data Crawler
 To use a library, just create a new project and import it through GIT. After that, use the devtools library and type load_all().
 After installing all code-dependent libraries, you can use all code functions.
 Special emphasis on 3 functions most used in this project.
+
 construir_bd: It exports all tables in csv file
+
 atualizar_ponta: It updates the most recent data.
+
 importar_bd: Imports csv files that are saved locally
+
 cria_panel: Creates the panel in shiny so that the user can visualize the data
 
