@@ -1,5 +1,6 @@
-[PT-BR]
+
 # B3_crawler
+[PT-BR]
 Criação de Banco de Dados a partir de um Crawler de dados da CVM
 Para utilizar a library basta criar um novo projeto e importá-lo por meio do GIT. Depois disso utiliza-se a library devtools e digite load_all().
 Após instalar todas as libraries dependentes do código você pode utilizar todas as funções do código.
