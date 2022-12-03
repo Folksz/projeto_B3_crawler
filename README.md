@@ -25,5 +25,5 @@ atualizar_ponta: It updates the most recent data.
 
 importar_bd: Imports csv files that are saved locally
 
-cria_panel: Creates the panel in shiny so that the user can visualize the data
+criar_panel: Creates the panel in shiny so that the user can visualize the data
 
