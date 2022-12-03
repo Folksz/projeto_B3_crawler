@@ -8,6 +8,8 @@ construir_bd: Nela ocorre a exportação de todas as tabelas em formato csv
 atualizar_ponta: Nela atualiza os dados mais recentes.
 importar_bd: Importa os csv que estão salvos localmente
 criar_painel: Cria o painel em shiny para que o usuário possa visualizar os dados
+
+
 [EN]
 
 Database Creation from a CVM Data Crawler
